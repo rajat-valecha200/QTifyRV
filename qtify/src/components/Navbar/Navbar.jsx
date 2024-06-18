@@ -4,7 +4,6 @@ import Search from "../Search/Search";
 import styles from './Navbar.module.css'
 import LogoImage from "../../assets/Logo.png"
 
-
 export default function Navbar(){
     return(
         <>
